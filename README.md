@@ -1,30 +1,19 @@
-# Project Name
+# Java Project: [project2-AP-neo-bank]
 
-<ul>
-<li>
-clone in your computer: 
+A Java-based application designed to [briefly describe the purpose of your project] — created to learn, develop, and share programming knowledge using Java.
 
-```
-git clone your_repo_url
-cd your_repo_dir
-```
-</li>
+## ✨ Features
 
-<li>
-run tests from terminal:
+- Modular and scalable architecture
+- Object-Oriented Programming (OOP) principles
+- Dependency management with [Maven or Gradle]
+- Unit testing with JUnit
+- Clean folder structure for code, tests, and resources
 
-```
-./gradlew clean test
-```
-</li>
+## 📦 Technologies & Tools
 
-<li>
-push changes to the repository:
-
-```
-git add . 
-git commit -m "commit text"
-git push
-```
-</li>
-</ul>
+- Language: Java [e.g., 17]
+- Build tool: [Maven / Gradle]
+- Testing: JUnit
+- Version control: Git
+- CI/CD: [e.g., GitHub Actions] *(if applicable)*
